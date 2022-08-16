@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/700/1*iH6TbcAWnyxB12YYSFDUMQ.jpeg)](https://shakib-me.vercel.app/)
 <h1 align="center">Hi 👋, I'm Shakib.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
